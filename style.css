@@ -1,0 +1,58 @@
+header, footer, form {
+    background-color: #87CEEB;
+    padding: 5%;
+    
+
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #FFEFD5;
+    padding: 5%
+}
+header {
+    text-align: center;
+}
+h1 {
+    font-size: xx-large;
+}
+h2
+{
+    font-size: larger;
+}
+#id
+{
+    font-size: 10000px;
+
+}
+form
+{
+    border: #00FF00	;
+    font-size: medium;
+    padding: 7%;
+}
+input[type="eventname"]:hover
+{
+    color: yellow
+}
+input[type="reset"]
+{
+    width: 4rem;
+    padding:5px;
+    background-color: chocolate;
+}
+input[type="reset"]:hover
+{
+    color:red
+}
+.submit
+{
+    width: 12rem;
+    padding:10px;
+    background-color: blue;
+}
+.submit:hover
+{
+   
+    color: green
+}
+
